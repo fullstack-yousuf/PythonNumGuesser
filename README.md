@@ -1,7 +1,7 @@
 
 # Python Number Guesser Game
 
-A simple number guessing game built with Python and Tkinter GUI library.
+A simple number guessing game built with #Python and #Tkinter GUI library.
 
 ![hint](https://github.com/fullstack-yousuf/PythonNumGuesser/assets/133602127/c8f1ada4-a20a-419f-99b3-a1d50822bf8f)
 
