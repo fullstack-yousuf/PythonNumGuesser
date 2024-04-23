@@ -22,12 +22,15 @@ This project implements a number guessing game where the user tries to guess a r
 ## Screenshots
 
 ![Game Hint](https://github.com/fullstack-yousuf/PythonNumGuesser/assets/133602127/c8f1ada4-a20a-419f-99b3-a1d50822bf8f)
+
 *Hint: The number is greater than your guess.*
 
 ![Game Start](https://github.com/fullstack-yousuf/PythonNumGuesser/assets/133602127/1a851bd4-89e3-4522-a228-588ff0ab3c6f)
+
 *Starting the number guessing game.*
 
 ![Game Win](https://github.com/fullstack-yousuf/PythonNumGuesser/assets/133602127/c7f10464-d709-4f84-9361-6f0e7751ccad)
+
 *Congratulations! You guessed the number correctly.*
 
 ## Installation
